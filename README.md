@@ -2,15 +2,15 @@
 
 # 组件说明
 
-seat.vue是选座组件！- 马佳威
+seat.vue是选座组件！
 
-log.vue是登陆&注册组件！- 马佳威
+log.vue是登陆&注册组件！
 
-img放在了public里 - 马佳威
+img放在了public里 
 
-css文件放在了public里 - 马佳威
+css文件放在了public里 
 
-css文件都放在了public里 - 马佳威
+css文件都放在了public里
 
 
 
